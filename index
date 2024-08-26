@@ -2,14 +2,26 @@
 <html>
 <head>
 <style>
-  p  {
-    color: red;
-    font-family: verdana;
-    font-size: 100%;
+
+  div{
+    border: 20px solid black;
   }
 
-<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 3%;
 
-<head>
-HELLO
-<html>
+}
+p  {
+  color: red;
+  font-family: verdana;
+  font-size: 660%;
+}
+</style>
+</head>
+<body>
+
+<p>HELLO<p>
+</body>
+</html>
